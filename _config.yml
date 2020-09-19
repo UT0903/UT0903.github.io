@@ -1,4 +1,4 @@
-title: 這是UT的個人blog
+title: UT的個人blog
 description: > # this means to ignore newlines until "baseurl:"
   
 permalink: ':title/'
@@ -14,7 +14,7 @@ social-instagram: youting_li # add your IG handle
 social-facebook: profile.php?id=100000599048771 # add your Facebook handle
 social-github: UT0903 # add your Github handle
 social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-email: b07902048@ntu.edu.tw # add your Email address
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
