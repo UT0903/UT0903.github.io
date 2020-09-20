@@ -11,6 +11,6 @@ tags: [網站]
 Ref: [https://poi0905.github.io/blog/githubpages-tutorial/](https://poi0905.github.io/blog/githubpages-tutorial/)
 ### 你所需要查詢的資料
 #### jekyll網站架構理解
-Ref: [https://jekyllrb.com/docs/step-by-step/01-setup/ "Jekyll Step by Step Tutorial"](https://jekyllrb.com/docs/step-by-step/01-setup/)
+Ref: [https://jekyllrb.com/docs/step-by-step/01-setup/](https://jekyllrb.com/docs/step-by-step/01-setup/ "Jekyll Step by Step Tutorial")
 #### Karmdown語法快速導覽
 REF: [https://kramdown.gettalong.org/quickref.html](https://kramdown.gettalong.org/quickref.html)
