@@ -41,8 +41,8 @@ tags: [大學, 選課]
 
 ## 課程資源
 [考古題、作業與重點整理](https://github.com/UT0903/UT0903.github.io/blob/master/assets/file/class-experience/OOP_file)  
-[Project 指定題](https://github.com/UT0903/Travel)  
-[Project 自選題](https://github.com/b07902011/oopProject)  
+[我的Project 指定題](https://github.com/UT0903/Travel)  
+[我的Project 自選題](https://github.com/b07902011/oopProject)  
 
 # 機率
 * 開課系所：資工系大二雙班必修
@@ -75,8 +75,10 @@ tags: [大學, 選課]
 
 ## 課程資源
 [2018期中考古](https://github.com/UT0903/UT0903.github.io/blob/master/assets/file/class-experience/OS_file)  
-[OS project1](https://github.com/UT0903/os-project-one)  
-[OS project2](https://github.com/UT0903/os-project2)（有錯誤在裡面）  
+[期中考古共筆](https://hackmd.io/RSPMWtBuRUyp-76CppXPOw)
+[期末考古共筆](https://hackmd.io/bqLsbhnuQ8K4jZPH8zse7Q)
+[我的OS project1](https://github.com/UT0903/os-project-one)  
+[我的OS project2](https://github.com/UT0903/os-project2)（有錯誤在裡面）  
 
 # 科學計算
 * 開課系所：資工系選修、外系通識
