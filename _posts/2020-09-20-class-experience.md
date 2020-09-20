@@ -74,7 +74,7 @@ tags: [大學, 選課]
 要不是不知道隔年要換其他老師開課，我才不會去修，教授講課沒重點、不知所云，英文爛還不承認（期中期末一定要問助教題意，不然你會被搞死），助教也很爛，project spec寫到沒人看得懂，在HackMD上問問題也要回不回的（對，沒錯，他的所有課程大綱跟project spec甚至announcement都是用hackMD來寫，如果你沒注意到，可憐哪）。期末project5～6人一組，google「薛智文到你家」會有意想不到的結果；期中考我們這年因為疫情是線上考，所以……你懂的。期末則是在綜合大講堂，找很多人一起開共編研究考古是不錯的選擇。
 
 ## 課程資源
-[2018期中考古](https://github.com/UT0903/UT0903.github.io/blob/master/assets/file/class-experience/OS_2018_final_exam)
+[2018期中考古](https://github.com/UT0903/UT0903.github.io/blob/master/assets/file/class-experience/OS_2018_final_exam)  
 [2020期末考古](https://github.com/UT0903/UT0903.github.io/blob/master/assets/file/class-experience/OS_2020_final_exam_paper.pdf)  
 [期中考古共筆](https://hackmd.io/RSPMWtBuRUyp-76CppXPOw)  
 [期末考古共筆](https://hackmd.io/bqLsbhnuQ8K4jZPH8zse7Q)  
