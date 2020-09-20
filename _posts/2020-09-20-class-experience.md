@@ -8,7 +8,7 @@ tags: [大學, 選課]
 ---
 
 # 重要
-拜託各位在使用課程資源的時候請低調再低調！
+拜託各位在使用課程資源的時候請低調再低調
 
 # 離散數學
 * 開課系所：資工系選修
@@ -49,7 +49,7 @@ tags: [大學, 選課]
 * 實際學分數：3
 * 感覺學分數：1.5
 * 甜度(1-5)：5
-* 聽課or自學（老師口條）：自學，老師口條爛到不行，我是看[youtube影片](https://www.youtube.com/c/CUSTCourses/playlists?view=50&sort=dd&shelf_id=5)自學
+* 聽課or自學（老師口條）：自學，老師口條爛到不行，我是看youtube上中華科大的[影片](https://www.youtube.com/c/CUSTCourses/playlists?view=50&sort=dd&shelf_id=5)自學，期中以後看課本寫習題
 * 推薦程度(1-5)︰ 想靠老師學到東西：1 想爽爽過：4
 
 # 作業系統
@@ -59,7 +59,11 @@ tags: [大學, 選課]
 * 實際學分數：3
 * 感覺學分數：1.5
 * 甜度(1-5)：1
+* 聽課or自學（老師口條）：0，自學看郭大維教授的[影片](https://www.youtube.com/watch?v=OQiCacvx5rQ&list=PLco3ZjBUnBUKNn0ANhQ1N7aJbYUmMlgc8)
 * 推薦程度(1-5)︰ 完全不推，除非你不得不修（急著要畢業）
+
+## 課程叮嚀
+要不是不知道隔年要換其他老師開課，我才不會去修，教授講課沒重點、不知所云，英文爛還不承認（期中期末一定要問助教題意，不然你會被搞死），助教也很爛，project spec寫到沒人看得懂，在HackMD上問問題也要回不回的（對，沒錯，他的所有課程大綱跟project spec甚至announcement都是用hackMD來寫，如果你沒注意到，可憐哪），期末project要分組，找認識的一起做，要停修一起停修比較方便。
 
 # 科學計算
 * 開課系所：資工系選修、外系通識
