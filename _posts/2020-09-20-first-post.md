@@ -5,12 +5,26 @@ date: 2020-09-20 12:26:00 +0800
 img: first-post/main.jpg # Add image post (optional)
 tags: [網站]
 ---
-## 這裡會紀錄這個blog的建立過程與參考資料等等
-### 建立動機
+# 這裡會紀錄這個blog的建立過程與參考資料等等
+## 建立動機
 當初看到我的高中同學用一些簡單的github  
+
+## 你所需要查詢的資料
+### 基礎
+#### 如何使用Github指令建立jekyll網站
 Ref: [https://poi0905.github.io/blog/githubpages-tutorial/](https://poi0905.github.io/blog/githubpages-tutorial/)
-### 你所需要查詢的資料
 #### jekyll網站架構理解
 Ref: [https://jekyllrb.com/docs/step-by-step/01-setup/](https://jekyllrb.com/docs/step-by-step/01-setup/ "Jekyll Step by Step Tutorial")
 #### Karmdown語法快速導覽
-REF: [https://kramdown.gettalong.org/quickref.html](https://kramdown.gettalong.org/quickref.html)
+Ref: [https://kramdown.gettalong.org/quickref.html](https://kramdown.gettalong.org/quickref.html)
+#### Blog留言區(Disqus)註冊與設定
+Ref: [https://disqus.com/](https://disqus.com/)
+### 進階
+#### Html, Css, Javascript認識 
+#### 網站轉址服務
+Ref: [https://js.org/](https://js.org/)
+#### 認識DNS
+Ref: [http://linux.vbird.org/linux_server/0350dns.php](http://linux.vbird.org/linux_server/0350dns.php)
+
+
+
