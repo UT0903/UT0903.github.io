@@ -75,8 +75,8 @@ tags: [大學, 選課]
 
 ## 課程資源
 [2018期中考古](https://github.com/UT0903/UT0903.github.io/blob/master/assets/file/class-experience/OS_file)  
-[期中考古共筆](https://hackmd.io/RSPMWtBuRUyp-76CppXPOw)
-[期末考古共筆](https://hackmd.io/bqLsbhnuQ8K4jZPH8zse7Q)
+[期中考古共筆](https://hackmd.io/RSPMWtBuRUyp-76CppXPOw)  
+[期末考古共筆](https://hackmd.io/bqLsbhnuQ8K4jZPH8zse7Q)  
 [我的OS project1](https://github.com/UT0903/os-project-one)  
 [我的OS project2](https://github.com/UT0903/os-project2)（有錯誤在裡面）  
 
