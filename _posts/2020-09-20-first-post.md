@@ -7,7 +7,7 @@ description: 紀錄這個blog的建立過程與參考資料等等
 tags: [網站]
 ---
 # 建立動機
-當初看到我的高中同學用一些簡單的github  
+當初看到我的高中同學用一些簡單的github工具就可以建成一個不錯看的blog，於是先嘗試建了[另一個高中社團網站](yuanchi.js.org)，有初步概念後才開始經營這個網站  
 # 你所需要查詢的資料
 ## 基礎
 ### 如何使用Github指令建立jekyll網站
@@ -24,7 +24,7 @@ Ref: [https://disqus.com/](https://disqus.com/)
 Ref: [https://js.org/](https://js.org/)
 ### 認識DNS
 Ref: [http://linux.vbird.org/linux_server/0350dns.php](http://linux.vbird.org/linux_server/0350dns.php)
-### ==未完待補==
+## ==未完待補==
 
 
 
