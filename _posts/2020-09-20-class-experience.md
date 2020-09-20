@@ -24,7 +24,7 @@ tags: [大學, 選課]
 課程分成三部份：Counting Techniques, Algebra, Graph Theory、第一部份基本上就是高中排列組合延伸，用一些特殊的方法把排列組合問題變成多項式方便解決，也有教各種形式遞迴問題的解法，第二部份教邏輯與集合的一些觀念，大二上的線性代數跟大三的自動機課程會有重疊，第三部份則是教graph，跟大一下DSA跟大二上的ADA都會有關連，可以說是一門資工系必修課們的前導課，而且之後如果要考研也會考到這堂課的內容，滿推薦資工系大一大二修的。三次考試（一次20%），考他上課講義的內容（改數字而已），每次上課小考(一次4%)，有可能會把爛的小考成績刪掉，有可能不會（看老師心情與上課次數）。 
 
 ## 課程資源
-[108年三次段考考題](https://github.com/UT0903/UT0903.github.io/blob/master/assets/img/class-experience/DM_exam_paper.pdf)  
+[108年三次段考考題](https://github.com/UT0903/UT0903.github.io/blob/master/assets/file/class-experience/DM_exam_paper.pdf)  
 
 # 物件導向程式語言
 * 開課系所：工海系
@@ -40,7 +40,9 @@ tags: [大學, 選課]
 基本上就是教JAVA，有Judge但測資超爛，每年題目好像都一樣，助教會看每個人的code，記得加註解不然會被扣分。期中考跟考古題87%像，記得一定要寫考古題，但期末考跟考古題只有60%像，其他靠抱佛腳，最後會調分(我這年調8分)。期末有兩個團體project（四人一組），就是幹出兩個android app，記得慎選隊友，且期中以前就要開始做不然會來不及，但期中以前沒教的地方不會怎麼辦？自學。
 
 ## 課程資源
-== 待補 ==  
+[考古題、作業與重點整理](https://github.com/UT0903/UT0903.github.io/blob/master/assets/file/class-experience/OOP_file)  
+[Project 指定題](https://github.com/UT0903/Travel)  
+[Project 自選題](https://github.com/b07902011/oopProject)  
 
 # 機率
 * 開課系所：資工系大二雙班必修
@@ -56,7 +58,7 @@ tags: [大學, 選課]
 不用去上課，有多餘時間可以去寫課本每章後面的習題，期中期末幾乎都從這裡出題，再有多餘的時間就自己讀課本，課本寫的滿平易近人的。中華科大的影片把第1章到第10章的影片全部看完，剩課本第五章可能要自己讀（影片沒有cover到），作業都是課本題目，slader是你的好幫手，基本上不調分，不調就70%的人A+了，調了還得了。
 
 ## 課程資源
-== 待補 ==
+[中華科大影片](https://www.youtube.com/c/CUSTCourses/playlists?view=50&sort=dd&shelf_id=5)
 
 # 作業系統
 * 開課系所：資工系大二必修
@@ -69,9 +71,12 @@ tags: [大學, 選課]
 * 推薦程度(1-5)︰ 完全不推，除非你不得不修（急著要畢業）
 
 ## 課程叮嚀
-要不是不知道隔年要換其他老師開課，我才不會去修，教授講課沒重點、不知所云，英文爛還不承認（期中期末一定要問助教題意，不然你會被搞死），助教也很爛，project spec寫到沒人看得懂，在HackMD上問問題也要回不回的（對，沒錯，他的所有課程大綱跟project spec甚至announcement都是用hackMD來寫，如果你沒注意到，可憐哪）。期末project要分組，找認識的一起做，要停修一起停修比較方便；期中考我們這年因為疫情是線上考，所以……你懂的。期末則是在綜合大講堂，找很多人一起開共編研究考古是不錯的選擇。
+要不是不知道隔年要換其他老師開課，我才不會去修，教授講課沒重點、不知所云，英文爛還不承認（期中期末一定要問助教題意，不然你會被搞死），助教也很爛，project spec寫到沒人看得懂，在HackMD上問問題也要回不回的（對，沒錯，他的所有課程大綱跟project spec甚至announcement都是用hackMD來寫，如果你沒注意到，可憐哪）。期末project要分組，google「薛智文到你家」會有意想不到的結果；期中考我們這年因為疫情是線上考，所以……你懂的。期末則是在綜合大講堂，找很多人一起開共編研究考古是不錯的選擇。
 
 ## 課程資源
+[2018期中考古](https://github.com/UT0903/UT0903.github.io/blob/master/assets/file/class-experience/OS_file)  
+[OS project1](https://github.com/UT0903/os-project-one)  
+[OS project2](https://github.com/UT0903/os-project2)（有錯誤在裡面）  
 
 # 科學計算
 * 開課系所：資工系選修、外系通識
