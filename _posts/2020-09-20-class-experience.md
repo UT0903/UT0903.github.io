@@ -6,7 +6,7 @@ img: class-experience/main.jpg # Add image post (optional)
 description: 我在112資工系從大一到大二的修課心得，提供給學弟妹參考（未完待補）
 tags: [大學, 選課]
 ---
-<iframe frameborder="0" style="width:100%;height:1700px;" src="https://viewer.diagrams.net/?highlight=0000ff&edit=_blank&layers=1&nav=1&title=class-map#R7V1Zk6O2Gv01VN37MCl2pEfwkuTWzM1U9V0yTy5s1DaJbTqYznTn10cSYgezCrDdnVSNEULG6Ojo2xGUxentR99%2BOXzxHHQUZNF5E5SlIMuyZOj4H9LyHrboEIYNe991wiYpaXhy%2F0KsUWStr66DLpmOgecdA%2Fcl27jzzme0CzJttu9737Pdnr1j9ltf7D0qNDzt7GOx9f%2BuExzCViCKSftPyN0fom9WojNbe%2Ff73vdez%2Bz7BFl5pn%2Fh6ZMdjcX6Xw62431PNSkrQVn4nheEn05vC3QkzzZ6bOF164qz8X376Bw0uUDeqghIMtyKsqMC4%2FkTG%2BFP%2B%2FiKop%2BgH%2FFY1rOHh8R3HLyzp6T%2F8epFJz5d6ByauIMmvrwlJ%2BkkHT0%2FcwV9KrpOnkrSpO%2FpvytNAKIA8AdVsEzy%2FwoKQBIsIKyAYOIWmfSBC8ES2QeoR%2FeIf2h4m2yw8BnHdyxfvruno33GR9YhOB1xo4Q%2F7g7u0flsv3uv5JldAjyH0ZF18Hz3LzykHXXGp%2F2AIVbCTzfd5YlcittJKwUBcthRPM%2Fk4Ghv0dGKkbJgz%2Bfs0Ru7BL73eww7iT3gtX1yj2Q1%2FQ%2F5jn22WTO7EYAP7aO7P%2BPPOzz1yCfn3eNxET97ZW2s12CB2%2Fe%2B7bi4U%2Bocwyj%2BcvaA1tlr4%2FNFfEWAQX6A3lJNDG8%2FIu%2BEAv8dd%2FmerCT84NgCOKSWkaworNVm63cfX51gGH9gMG4IabkS0gcpDTtTFUyDwg4QCLIPZgpbqf7NkJUGiyrm4UQayHNzMfGYbPZOruMcExik5gDqhmLr1XO0pn%2Bp%2BV26PuZG1yPDIvsSlE%2F9Sl%2BvF4siXHR9sRDF0imvJI16DLzH8x9eUosJVRoAEsrXn378dvrXv7c%2FLf9YL96eXr799vRJUXpTnaxmqS7Ckk4oidCTIUBVgGuCLnwIAOEyUxLwMmTftPUTRDWjsIRXCMC%2BH9wAPb3YO3L2O96Mc%2FibnnYwb8i7XRmgHX2ra3r8GwvoqQGdXI4wNgKMEMYQVwK4UrwBXnADBje44R0TsxegcMMoUwjKMOgshSARtwOZQRLfA%2Bmc3jEfAYBIrwCggdEkcgKgrs4NgIAnACXB1CjNYQHNoDRnEe4LZTcTEtkNA9NaPg7uHA0BRy3DHZC3eHvlhDtFHw13%2F70g%2F5ftb0QBk0X6kIeFFaDkRXnNXAnQoHRGqY20AKokYMQtBLBmnc1l6qo1PQUYPLGeQCS6NRmKnYJXoXd0z7%2FHStzPZzyJzisVpzaBt1l4p5dXPO2br76HharTyT3vw8uurkEZpOaOLdpbgvg10fJoXy7sbvIMDHaonIG3QFM1XgwMRlsI%2BDC1Ftpwss6Nk68sHvxBp0IBoCz9QLIAkjArG1e1qxGQKOmTywIaT90HUo6FRImGZiJxEhV7Se04VLOG8HFwNxED5mWB6YEH%2BQFPI2JAqHQTkVOhH3DLiuLNoi0UePgzPoXbiVgaKuZrZls0zQfC5Dz0ohlgUuWGSWr%2FSezUcsoipAsWhWVaVSL7c8oC%2BUBQnIWNaAZQ5CcPlu3LWBsCSmQ2Sm3QDwS8WXBg7D6cDnj8jOEa3WpXVBHB2FvSnRpQvIX0KBdcLQ8AvHkIhKMCr3CvPDFX7sxrjKeu7rw6%2F%2BkVA0oOIaLI%2FG8lPjsI12vM5nx8c5pSxESFv5affgp57oOLiIUssicmaqlBNkQoP6IAppH%2FyuhIp39sxFR7%2BNeZppRWglkJIkfeHkX%2BVBXDkOoKwEr57GgkzCM5jR0bgefS7VHfAbR95oS7olw2Ne76h2P1F8usx8EdN7HsOu6KYtnUuJO54Q6QuARgMHYj%2By%2FedjWigRK%2FhEGJjzouwj7WgtpGUk4MfDmxIn5AkiskwdwQyS98BuNPStlBIjMx8SUbxEgHH0gv5Ra00E7gk4zJ8cYvWsYglg6TBjFYS%2BJyIMQXKh6YBxXivVgpNAhaSlFhHA2tk1OYKB8Gk9yMdO2EwRlgkqtWnLMOx44KgwTKmPDDfTu5WDg9AiWRnyKM2VCnWgcgEYQhP2JEmlLKQRGzoUHEQObI1cj%2BXews07BrPI6pJ761h4Est0iXVmLjqIgt3Co%2Fv65GFOYwmjoxNFMTDWFSU8B6exh1CIymAOtqcW6X7UEsx2XZHsTanJLuhrUoA6mIgnKLsqRyYy5FKjxy5OzREzv0%2FODg7b2zfVwlrbkkrqTPZ897YTP0GwqCdzZD9mvgZecPvbnBr6nP38hQP2jsaPnGRqYH79HBGf%2FgX9MHqavIYXIZPYquo1gxSfZjml5wG3FGxH1ybLBeMztulogSyy55SM3ZgS25i%2Ffq79DVjYRZGPD97VFwtWcFuHx0tAP3z%2BzNcdjx%2BJlCqAnOMrKG3tLcs%2Fvfr7hZfNVWQv7kdg4G92nw9kCW3onwNjvPVjXaLi%2F2eRDHViwaFRNqw%2B8YWCIqEW0WFXnPRByqy5ntBoPrEhHUePrYeeflaMQiAKh5FK6oFhYb9cOsA2o%2BwFNPxGCdHCYU09apnsnCibNunnZ4snZoY5%2Bdzc%2FnZ88%2F2TQz5z9odzjj6d2Hj6eOao3UJN1gNg4nla%2BaJ%2BZAayW5NrzxbpBNE6ZMr0lAuU58Ua0jJjOg%2Fuyeke1vzOMebX27EW5vPIuMk3WtA25HFP8654hJijaJ5spdC03rmtV6aQMt9Jpg00C%2FhD31S3bpV8%2BlNBNBK4ssI4eYUENm1ySgwQ%2FOfk91eyEdLo2%2FJSqglEAwHDABZPwDby%2BhtwfHDpS%2BK0mi8MG8gzDvePEF0wgMRe8ER3g%2FvV8CdLq0RXOG%2BT7QPByaebo9JoAzJO4000p5gFN%2BuFw6Ww8Uf0GOu8PCMNXqPrvPqBEjS%2FeF4YFiHQaQhe8MxNWhhCWlQ2J8xzGxOjF1wF7WC6zheb4bHE6bJbpgGFCcm1gmf7%2B4l0Z8rd8X1qfj6zEjKzorftXRPrxMs2kwj2OaJVUGhQrT7GIxhWlWKpNFb8c2m1KowCoVftCFsLA4ubW37tENGplTJe2DnprSU4XNYRZmqdm6DzrkQHF1Hyh3hXeu7oPreL9v94FKwrwhDQ0ztSitIGsf6AHqX16Qj9F73m%2BYFaARVX9IkgNB987tWCz0m6r2lh6VS1rRTAWREnSpZcskzM7YvJfOFP66zS8%2BkQCRk7ZwbT7b5%2F0rKeTfBPDqfQF%2BoII5%2FQF%2FZ1aCWO5ImbpyPos%2BdloidwTus7tjHoimbocPSYOTpHF38IUqwassfn0PDh4xEkTlb2nBJ6ixBO84V6KDWyIprBsHRkSRXckbOuKRc6V2O%2BqhMeljYX1jvV7cM7pckkW0cc%2Bb6Bc3WE7yXS0nrjbjdorqnS0nKEBLMGUW5pOO9%2BlYKi0D66V72fkoQJsvdnBARAXdNTMD35csM%2BFucBNmYKk6831IOzAgJD1WiG6pvZcE4wrtSmSJIr2krOoWQ20j6LQ1EWuNE5pUuT1SGsJC5pfe1rBG1mPVJOJdI%2BvK4p%2BD4awhKq%2Bw1QCo1KL88yWFZ2xpiN93Q%2FPSiU83Thn%2BKHbPJx78OjDnl1cl8SvoQUMFTDOiSy3lhUsFEpBaH%2FJwZrIbBiZfx%2F91YM6u1JYk8avqcTXeNldt4QN9I6BvblW1JJlfDV5IeA%2FSEkaY5UJ%2Fb96pG7sTPjbnETfn%2BVXbkmSZGw6LbwEpGPlLbJzpjXsdvVNxGZFp3eUfoOUuUc4BtPxS9a%2Fv3NlymQ8Dvxnt3DNAX5RCPk1Bm6hqTauCNnFeYYdUwh15v6C7i5pZNmE4opPLN8Qt%2FGreXDXS1he%2Bifbe%2BsTEqqpKIxW%2BiW6UT6k36h9cUVejySP974ZpbspddoYlB406FSWLhv4%2BEfYybfoG91DMY%2FX48f4LqM5MLZEwfKmxHGnRFtVxQrN4tINDhYHdUiNP%2BLJswIJmVOV%2Fuds1MJrcqJT4bsaWG6dJ6I927ni3%2FpY6U1eKLtmsv2X26qqdm2%2BZuaiWX91uG73WqnazhRPvtfrtIaKtLDcPRADQFBEVtNKzLATIKRK6mKOZ8MZ6F4ZQ85UhtExliNr7atvfUHtVnmi6TsDN6Tyd1slgpVE6rxO58TqRuawTvdsyGQxpyqTadZtysQ215LkAi5UQHxwwBQtN%2FDbXgZk1fmdiOfPV9o9vjC9VKvIUAG5S%2FamZvYYzUkcnrIqCT3XjSGI%2BgmwgGFd9D2dUKjdJq5VIvm1hOHrNV4MiaemEweEWjZJ36nAjbbV8eVaSdtWNcV4e6q0sj1suUt94eTSvIQiGWB5tQa1V6JJVoM73H4vzb8a4cUvgZNXbmqBT6kvePd%2B8YUwy%2F7dPUA1mtqLa%2FLCybHFX5lO9VFJHMSKpTOrJOJTyAC3oKBklp%2Fn0d4VhQl9GR%2F6qNgXMRKSswG7KLxOFOKTdMlFbT4jHb7mPyz7l9aymClthV5XytX4HkmHl3C3r4Pp2n7eI1PVX5H79x1q%2Bk8rI4g9yB2fJXQS%2B9BBVmhqTK0mBryCtw7xgXAN9PW%2FTa33BSGtlUtG7kz754EslyuqsXSpgkLL1bVdKIgrGubA1yC9ckdNSeSF%2FGqXjA%2FmdkS%2Fdij6rTeJZqRBAxGbYiq6K4CU9GrjGk0B6gmvS2LAheMt4OOIyGhOXNi22mDTIpZIIXJD8PRL%2Fuhq%2FkPRiwYqHsB84bLkP2LgitJr3%2Bg44eVwLK9SV%2B7jfwONZVPnQKiSa2Zb50PhVU4A0FVjNBNeHReUeBoSOhoCjloEQyFtF75kBUgO2%2BZXu0PhVSKDZHpbE6tmSNyGE%2Bb4a3cnWJPnyWgHEQg2PpABit7qHtwzagd6o3Am08yvrEd0Qn%2FS5sHx4XHazAWjvFHV8c4JrUDe7ch5GXU24oXPl8olsua36I39teOFvBimZusxR%2BsO3DU2WGgwfKO2X76vfWgp9cwAZv9JExQ0UkhrZrLbgY22gfLPN222gc0Cdxh91tOwuMZY9Luq4vsCirbIwA9gZZdpC3g%2BQGMQTq3nHsDSh3iDe7tH2TQTIxTYpXaOxoFgzEO%2FEQaO%2FbKSIlUWhci9XCC23kJa7tSiTQFIsKnzZFEarSQtHAUDZJtXZgsQ6QU5BwjxJZ%2FomNtP8R6o3e9PPP5tSEQHV57AWv%2BUj%2FKvsLT0lZtEaMcQRPZNhyDp3d%2FbRZM1bLwi8Uzz%2Bzjuf0S5gQwlxsF63ghEVGYhsnMjzM2wQrZbDoff8fEF8IKi2IxNG9Y59OcQ7SIFWMjGtpaH1dZ7orO%2BuRc5qitHUJfmvGX81999VwGGcQNSY%2Bt9z6l5b5qsbZ6AoVAmUfw%2FncJ5oNmfvFh%2FUuz1YEmzzxdDXRd0wSFqU%2BMAT5GU7pSYpKn8BrEnnzv8SOE4g56R5s9nCF8aIC2AwabZ5rDInATdvxZPyygRvwVSdtnZKC1nhxhHUu25jBYLyIeRaQwT13eElvaYWUOHOche05UR86HtE90m6%2B%2FbL4YvnEKVi9Tc%3D"></iframe>
+<iframe frameborder="0" style="width:100%;height:1700px;" src="https://viewer.diagrams.net/?highlight=0000ff&edit=_blank&layers=1&nav=1&title=class-map#R7Z1bk6M2FoB%2FDVW7D5PijvQIvsxkayaZSmd3M08ubNQ2Mxg6gNPd%2BfWRhLgYgxHmYpvuTqrGCIExfDo6Nx0EZbZ%2F%2BRjaT7svgYM8QRadF0GZC7IsS4aO%2FyEtr0mLDmHSsA1dJ2mS8oYH92%2FEGkXWenAdFB11jIPAi92n48ZN4PtoEx%2B12WEYPB93ewy84299srfopOFhY3unrf93nXiXtAJRzNs%2FIXe7S79ZSfes7c2PbRgcfPZ9gqw80r9k995Oz8X6RzvbCZ4LTcpCUGZhEMTJp%2F3LDHnk3qa3LTluWbM3u%2B4Q%2BTHPAfJaRUCS4VqUHRUYjx%2FYGf6yvQNKf4Lu4XNZjwE%2BJb7i%2BJXdJf3PQ5Du%2BBDRZ2jiDpr49JLvpA%2FJC8KjI%2Bhd0XVyV%2FImfUv%2FXWgCEAWAP6iCZZL%2FF1AAkmABYQEEE7fIpA%2BcCZbIPkA9vUb8Q5PLZCdL7nF2xXL07O4928db1i7ee7hRwh83O9dzPtuvwYHcsyjGzzDdsnZB6P6NT2mnnfHuMGbESvjuFrs8kENxO2mlECCHbWXPmWx49hp5VkbKjN0fP6AXFsVh8CPDTmI3eGnvXY%2BMpv%2Bh0LF9mzWzCwF40%2FbcrY8%2Fb%2FCjRyHZ73reLLv3ytJYLsEMt29D23Fxp8I%2Bxij%2BcnaDlsfHZvtP%2BUqBQWGMXgpNjLePKNijOHzFXZ7zkYRvHBsAu8IwkhWFtdps%2FG6zo3OG8QeGMSfSci3SO6mInakKpkGxAwRB9sEssFXoz0dWERZVLONEGsh9c7HgMdnT27uO4%2BUYFJ4B1A3F1uuf0ZL%2BFZ7v3A2xbHQDclpkR3H1o1%2Foy%2BVsdoqLrs9molj5yGuFRjMDr9nzTw5pZEKV2iPx3wiFv66%2Fk4lBFulgu0ySyeqxJEtR0YnEIdLHEKAqwCWBB28CQESVKQl4lLFvWoc5MGcklOf6P7L5YhmiaLe3%2FdUD2ru%2BHSZdUrqVr58%2Bftv%2F55f1p%2Fmfy9nLw9O37w8fFKVwt9lwKLCZiyLC5PPOjdHDk70he5%2Fx%2FF1C9vqSCosaebOpGgOOvtY1PbtvJ8A1cCpXQ8nOAFMoGaQVjFYiCtoTijcLkI4CLZ5WsYgDFFrMqkJYxehaCuEZtwOZgQ0M2rk4rV6C8UcvWNve6sshcjer2cGLDyHiQBl%2F%2B7RQRnoNygbmUhwIZV2dOMqSYGpU7GJ90KBi1yKyOFEVTUhURYy4Ne9C8Cdke%2FFu9Rvy7Bg5q6%2B714jM1KulG%2FsoinhgBpOC2dEQcNQqmIG8xgrDQDAr%2BpRhBlT4UrlsLgRoUHFMRTNpAdQSwpzPBLBknc154agl3QXYoMDGEFFbl%2BRUbBfkB%2F5nHz9X50B1xlUcrGbB%2FumASVh9DQOsOe6xOrLloF6%2Bc%2BrP6c%2BeHUXsasqSHmxQtaRfA03VhpL04I2ODfxBpzoLoKK%2Fk6pSxz2PhNfvm%2FUSxEjCMt44a32OALGkT4pirFVDKpAhcStAM1evidNhTj1b1NcAYSeFG%2FkoxOrJbIftxii9Cw34apPC90oyuKygTIxfjageibuDKNcK%2FYBbFhRbi7ZQfvFnvAu3EwU8cYksmdPWNLug%2FRvCM7K%2FXf1uu8%2B2H61IwCH03WiPdfFkhm5GHU4M9dswLCeGOnXo5XEFueDi0wWL0l60NYkuUvAYd7E1bd%2F5gLWPxcsTCrHyuUGr4BHTjTxn9dl9RKufeRBXJ4b4TbgBJ4Z4lTaCDUagpJ7BglrSgzbyNXrd7PCT2%2FKoI3Ba2vSNyOgsOD0NgDWqYSyoUYgZnlMFBVBuE%2FEtn4TuLgF4Znubg3fgcfPBiYVfbkOLHhnb5jiywn715akR9UhXx57P49pD9Lkp3H%2FGFVaCRhRZuLgixAzhcoknnWFCyZpyiklNesEFoIwwG89SGWaRmTl3CRhkWoZyL%2BrlQ3xw8D1fPaDwLxfrlgvnsLE5DScApyXdNPJflXTT6R87Y6E9%2BbtY6inV%2BNZomxU03%2FVczQRbRjU1rIBViDXTNK9uKRP4YXloi1azneujiCfMDMVJQe3YCDxWTtn6BqD140Dwnmqa04KXV9G0xlI0pUlRO5iieZ7aU0VzStQCktIDDCZgiUaBFQmNWPYkZmZQ2UuDakkfa0Z9WYUAGz6c%2BEovB3pux%2FbqIQ4PG5LzE61s31mZ3hbrnvFuz4W5%2FI55d8zBlCnHTEsFn1UagSCpEQZx1MJOtr9lRz9QvLY974NLnukeOa4dc%2BkV00pfGyzjp51SLBkTgxeYgkkTfKw5CY0RyZzYelhQKyTKtlDoKgipIKuz5RA62YUleRedI3T3aDUPD9tEPH867G3fjV3EJZ7vPL9nLC9tO915YoyfhhmySJpBktJMOEz2g%2BVyBxsm5te4DWV6YhhjCa1TQw%2BQPONEZmOqTakQLcsktEF0Z5YEoREF5bSzTBeL4POYeh5A7oD9Lyh%2BDsIfK9PZuz7J%2BqFePSrTH16jGO1LezjGhSROyzcyWE5bK%2FV7YuNCI%2F6QZKVIHrqgbjwi%2BU0BSiwjGRhnYa4NtpxPZbg03tFuaRyJW1QtjSOxjoLu2288A0inoFTHMyS1F1ROAl%2FVUkFhv6TwFJCzRQ9sMwjjXbANfNtb5K2lRbB5n89B8MQe2ncUx6%2FsodmHODh%2BpOjFjf8ofP5GTvWTxrbmL%2BzMdOM13fDxPfijuFE4imzmh9Gt9DiKj0lWjxeFEm4j0bGsT0mGLJcsOHAsvvJwAblJ%2FDJFZTc5OIQbdFZIy0lPfH1bFJ%2FtWcNbSNa1uH8dX9wNhcao%2B9UyjiMFlStzL9MXQ2zycE2H0%2FJGDRYqUKsxezuhgnOsdooQtGB1WgGCK7F63Zgs53zMfvhpMkr0RFjpJxkl0ehOCyEk39FzMkqFljWrqVdBNLOmWgeXkXFeOYPaPSebaMTxAqiLHC6ooZoFi5KVVtRLgx890d51spkLsE7pJ9lCwodNkttM7NOf%2FccAyzVqr%2F6ONjuf13EjidNysvdloNbLiRuVdCM4bwzqekw95vl6FZ3EOLtlOH92fWSHJLKJ1qHNxe3EHOc9eRwv4Pa62iSvxaxdxWIe3Pot2rj19jCH9XtOseGwa2E1Itx2LTv0a%2BBSMZOidUyWUSImsczZMTk0%2BMbZr4VuT6RDxP0taeG7HMHkhDmQ2Q%2B8huLQrUbBACuzW1YkkKRpubSvKHmnnlVyGsAZEO8kRBO1pVl8j1wOQ%2FPEgjSQRBxNqxBoL4QqS8taO1D8BTnuBivD1Koji1W5JPK0PFV9JZH0oAtPDOL6FNWKakgZ31mmtk5cHbCT9yLLXV3NUYQxSBJasU7%2BGrk8%2BVKSOLFlrdeT11fONuEz%2FFip6xFds0WYx3HNkuqwQo1rdja7hmtWqtJF78c3WzCowKKQNXGJwMLq5Npeu54bc7lTpYlVRhlSPNX4HG7CLXWz4YPuy%2Fv6DR9Ma7n%2BoOGD87xPO3ygkux8SDPaTC1dWnLsH%2BgA9a9PiKRk%2BluWqMmlSUrvmmRP6E7cj8Uy7Klpb%2BlpNbYFXWAiUgFd6dkyiWRn0ryTzZT8utWvpJYVLZ6ce7hWn21%2FeyAvYOEB%2Fr2k1TDAT8xLkOkdBVdXKWbRxU9L9I7YfSSV7Kkuwht2eNc0BtI0JocvVAmvsvj1Nd6RZRpiWtGbFmiDGis7kC0nuSAskdcKzxIj0syu%2FM1K2ZlL1cMvtEMzoY%2BV9ZV1iEh9jigfRCvXX6W%2FmGM4yZMaToP6jNsZqhMbTlCAlmDKLM2nmO%2FTR2nDuRttQhSj1Rc73iFigm743MDT0mWuOBvchRtYMoQx%2FMCACOmxUnQr%2Fb0kGVdoVytOFOkhVeXnGLVc6LR1EWvca6tU%2BRZdxFy14rp627rUipPkacm4oYvFnREcN%2Bp045R9Z4RfD8NAS6sGzOl4yBwX2RvNaDUBEiLOFml3fF%2FIHTM8bHr5eVZHDIjwggkGA5NmHphmKp%2B1QlCvkJdAKr7I%2FXnd7hjMYfMIzoM5Yg04XjDr0wYGTd8t1bd4p28E%2BsYLPnDCJw9X2xoSuQdpISss5ZLwcTlGnEUn3ifnESfnMX2qvBzKg3F4%2Bs6ik5hBhcu0OHEv07fmzlNh2nT4O7SDa5S3AG39WuxhZ%2B7jqq5vBr8bmrlvgL50Rfp16vKkxXda1eXJlilesDJxQ97A6m7SZrY4MTmjU1q%2BiFuGK91z1ufbXL8nnXub1znW1YvqWr%2BHV7qJA07JFg03Lmjk0hxiNeEdi7lrzrJjBlh4oylNJsoxDd1DLECjbOrENknUPPbmCjz%2FAmozU08kTF42L6dWtEVtnMQPn87gUGGwW2oaWJ9XnfDEMqoL50x2DIymNyoVoaCx9cbr1AdIZ%2B5stv5W2NNUUS%2BfrL8dzdV1M%2Few1fLSkoRNsy1UOCdbeOW5Vr8%2FItrqcrdBBAC8RNSIlY5VJkDJkNDFkphJLqxznQm1XGhCOyo00XhdbfsbaqdCFrzjBNydzXPROOmt0srF40TmHifyIONEv2yY9EaaclXruk3VW04r%2BVbAOq4y3h8wJx6a7PXNPUvW7PWk1ZKvsX92YcOKSkW%2BBsA8xaT4%2FDUDkzq6wKqpH9V0HkksJ6T1hHHd9wxMpXKXYrWW5PtWhqHMOckfV7Lob9Ao5aDOYEJbrR6etUK77sIGHh7qvQyPe661zz08%2BEsSgj6GR1uotRpbsg7qcv%2BxZP7dODfuCU5WDI6HTqmr8O7m3FKMqzz%2F%2BxdQHE%2B2pp59v7rs6aw8TDFUSR3FiaQyrecooFQG9MRGOTJy%2BB%2F%2FpRjm4su4UH7VuwJuRKWsYbcQl0lTHIphmbStI%2BKaUmJPLttZvAbbyawqlUsH96TDyqVL1sH56b7sEWnqr8jd%2Bo81fK%2BqI4s%2FyRcESyaR%2BNJBVeF1JtcKhWEVaR2WFeMG9PWyT6%2F1ASONlauq3hfZk298qMgq51ABvVTBbztSclUwW1rbQP7JESUrdSjyr2N0vJN%2FMfnSvdiz2lUiKzUKiMjHVnpUipf01uAaTwPpCNdVc8P6kFvGmxNcBrfg0q7LFtMGBylMAmdk%2FR7Jf12MX5d6NmO1SNgP7Ld6COQuMK2Wo773UT2kXVpxA2TTekffdQqBaDUazj1VAtGGK7gA6Wph9Sj%2FPiljN90E%2BfIbcjUEHLWKSyCvFb3jIpEG%2Fm6vuoc2XBEFuiDEklgFXfLuhWRJsEYnuyVZn3mu5OJJmY%2B85OJllRbvGdqeXut8EbS3V%2FkjvaBhVtglBcuzQp8c0E6UumGXDTdQd3MVPwy1Abq%2Bl9OV17qVpur3JW7964M3sGpTlwfU%2FvBlQ5OtHoZvaGXwsC%2Bba6n03QJkw1UvOp1AIanKzcoPvq0JdNgF6e0m0FugThueOlrol%2FjT3i51g74yo62xcAPYGVXWQjlUkPvMc8f6hZlrQrPPvN2t7bpWoJT%2BpFyasAXFhhMNvbbQ6K4bKWJt3ajS6xwS9y%2BkFXEtKkkgqSeVvN4K02rS2lIAUGlT6GxB4p0guyCRPHln%2Bu430%2FxXoTd7t9C%2FeUURgepz4um2QoR%2Flb2mu8RjWlMJ4aFHchoyzt2N7ZmseR3EcbDPzr8JfB9tYnYqIcvnu6ymRM0iRXaeNDjUb56tVuIweHyM0DAIqu2ECRP1jh3tshnkRKwcpb1WZt83BauPw3stlrUWJJo6J%2F%2FxyS%2F%2BEF8NDuPkqmai%2F7Vk7rWVfE3n6SlRVQLV3zNwxk%2F6NG8%2Bct5rALy3dbL8g6FrFJszj1qUhsETlHU7pWHdVPkA2LDiu%2FxL4Di5nlddWntcG8MYcQD0ps3ypzMPpOCWvXhS2ZgYWjFVr1tepYWucOcEdS7tWENQOctc4ySo6wwv6Q3lgk6urHRAW5mIN8MgiIvdQ%2Ftp9yVwiFGx%2BAc%3D"></iframe>
 
 # 重要
 拜託各位在使用課程資源的時候請不要大肆張揚
@@ -195,6 +195,244 @@ tags: [大學, 選課]
 * 聽課or自學（老師口條）：上課都在屁話，看他的youtube影片就好，刷judge題目，記得後半堂課要去考試
 * 推薦程度(1-5)︰3
 * 我的成績/比我成績高的比例/與我相同成績的比例/比我成績低的比例：大一：停修 大二：A+/0%/45.92%/54.08%
+
+## 課程叮嚀
+
+## 課程資源
+
+<h1 id="German">德文一上/一下</h1>
+* 開課系所：
+* 修課學期：
+* 教授：
+* 感覺/實際學分數：
+* 甜度(1-5)：
+* 聽課or自學（老師口條）：
+* 推薦程度(1-5)︰
+* 我的成績/比我成績高的比例/與我相同成績的比例/比我成績低的比例：
+
+## 課程叮嚀
+
+## 課程資源
+
+<h1 id="College_Chinese">大學國文二</h1>
+* 開課系所：
+* 修課學期：
+* 教授：
+* 感覺/實際學分數：
+* 甜度(1-5)：
+* 聽課or自學（老師口條）：
+* 推薦程度(1-5)︰
+* 我的成績/比我成績高的比例/與我相同成績的比例/比我成績低的比例：
+
+## 課程叮嚀
+
+## 課程資源
+
+<h1 id="Calculus">微積分甲上/下</h1>
+* 開課系所：
+* 修課學期：
+* 教授：
+* 感覺/實際學分數：
+* 甜度(1-5)：
+* 聽課or自學（老師口條）：
+* 推薦程度(1-5)︰
+* 我的成績/比我成績高的比例/與我相同成績的比例/比我成績低的比例：
+
+## 課程叮嚀
+
+## 課程資源
+
+<h1 id="Crime_Drugs_and_Humanities">犯罪、毒品與人性</h1>
+* 開課系所：
+* 修課學期：
+* 教授：
+* 感覺/實際學分數：
+* 甜度(1-5)：
+* 聽課or自學（老師口條）：
+* 推薦程度(1-5)︰
+* 我的成績/比我成績高的比例/與我相同成績的比例/比我成績低的比例：
+
+## 課程叮嚀
+
+## 課程資源
+
+<h1 id="Student_Service_Education">服務學習</h1>
+* 開課系所：
+* 修課學期：
+* 教授：
+* 感覺/實際學分數：
+* 甜度(1-5)：
+* 聽課or自學（老師口條）：
+* 推薦程度(1-5)︰
+* 我的成績/比我成績高的比例/與我相同成績的比例/比我成績低的比例：
+
+## 課程叮嚀
+
+## 課程資源
+
+<h1 id="Network_Administration_and_System_Administration">網路管理與系統管理/實驗</h1>
+* 開課系所：
+* 修課學期：
+* 教授：
+* 感覺/實際學分數：
+* 甜度(1-5)：
+* 聽課or自學（老師口條）：
+* 推薦程度(1-5)︰
+* 我的成績/比我成績高的比例/與我相同成績的比例/比我成績低的比例：
+
+## 課程叮嚀
+
+## 課程資源
+
+<h1 id="Data_Structures_and_Algorithms">資料結構與演算法</h1>
+* 開課系所：
+* 修課學期：
+* 教授：
+* 感覺/實際學分數：
+* 甜度(1-5)：
+* 聽課or自學（老師口條）：
+* 推薦程度(1-5)︰
+* 我的成績/比我成績高的比例/與我相同成績的比例/比我成績低的比例：
+
+## 課程叮嚀
+
+## 課程資源
+
+<h1 id="General_Biology">普通生物學丙</h1>
+* 開課系所：
+* 修課學期：
+* 教授：
+* 感覺/實際學分數：
+* 甜度(1-5)：
+* 聽課or自學（老師口條）：
+* 推薦程度(1-5)︰
+* 我的成績/比我成績高的比例/與我相同成績的比例/比我成績低的比例：
+
+## 課程叮嚀
+
+## 課程資源
+
+<h1 id="Basketball-intermediate">籃球中級</h1>
+* 開課系所：
+* 修課學期：
+* 教授：
+* 感覺/實際學分數：
+* 甜度(1-5)：
+* 聽課or自學（老師口條）：
+* 推薦程度(1-5)︰
+* 我的成績/比我成績高的比例/與我相同成績的比例/比我成績低的比例：
+
+## 課程叮嚀
+
+## 課程資源
+
+<h1 id="Global_Music_Culture">全球音樂文化</h1>
+* 開課系所：
+* 修課學期：
+* 教授：
+* 感覺/實際學分數：
+* 甜度(1-5)：
+* 聽課or自學（老師口條）：
+* 推薦程度(1-5)︰
+* 我的成績/比我成績高的比例/與我相同成績的比例/比我成績低的比例：
+
+## 課程叮嚀
+
+## 課程資源
+
+<h1 id="Reading_Taiwans_Modernism_Fiction">台灣現代主義小說</h1>
+* 開課系所：
+* 修課學期：
+* 教授：
+* 感覺/實際學分數：
+* 甜度(1-5)：
+* 聽課or自學（老師口條）：
+* 推薦程度(1-5)︰
+* 我的成績/比我成績高的比例/與我相同成績的比例/比我成績低的比例：
+
+## 課程叮嚀
+
+## 課程資源
+
+<h1 id="General_Chemistry">普通化學丙</h1>
+* 開課系所：
+* 修課學期：
+* 教授：
+* 感覺/實際學分數：
+* 甜度(1-5)：
+* 聽課or自學（老師口條）：
+* 推薦程度(1-5)︰
+* 我的成績/比我成績高的比例/與我相同成績的比例/比我成績低的比例：
+
+## 課程叮嚀
+
+## 課程資源
+
+<h1 id="General_Psychology">普通心理學</h1>
+* 開課系所：
+* 修課學期：
+* 教授：
+* 感覺/實際學分數：
+* 甜度(1-5)：
+* 聽課or自學（老師口條）：
+* 推薦程度(1-5)︰
+* 我的成績/比我成績高的比例/與我相同成績的比例/比我成績低的比例：
+
+## 課程叮嚀
+
+## 課程資源
+
+<h1 id="Introduction_to_Computer">計算機概論</h1>
+* 開課系所：
+* 修課學期：
+* 教授：
+* 感覺/實際學分數：
+* 甜度(1-5)：
+* 聽課or自學（老師口條）：
+* 推薦程度(1-5)︰
+* 我的成績/比我成績高的比例/與我相同成績的比例/比我成績低的比例：
+
+## 課程叮嚀
+
+## 課程資源
+
+<h1 id="Freshman_Seminar">新生專題</h1>
+* 開課系所：
+* 修課學期：
+* 教授：
+* 感覺/實際學分數：
+* 甜度(1-5)：
+* 聽課or自學（老師口條）：
+* 推薦程度(1-5)︰
+* 我的成績/比我成績高的比例/與我相同成績的比例/比我成績低的比例：
+
+## 課程叮嚀
+
+## 課程資源
+
+<h1 id="Health_Related_Physical_Fitness">健康體適能</h1>
+* 開課系所：
+* 修課學期：
+* 教授：
+* 感覺/實際學分數：
+* 甜度(1-5)：
+* 聽課or自學（老師口條）：
+* 推薦程度(1-5)︰
+* 我的成績/比我成績高的比例/與我相同成績的比例/比我成績低的比例：
+
+## 課程叮嚀
+
+## 課程資源
+
+<h1 id="Hand-on_Experience_of_Field_Life_I">田園生活體驗一</h1>
+* 開課系所：
+* 修課學期：
+* 教授：
+* 感覺/實際學分數：
+* 甜度(1-5)：
+* 聽課or自學（老師口條）：
+* 推薦程度(1-5)︰
+* 我的成績/比我成績高的比例/與我相同成績的比例/比我成績低的比例：
 
 ## 課程叮嚀
 
