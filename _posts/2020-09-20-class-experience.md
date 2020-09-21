@@ -6,8 +6,8 @@ img: class-experience/main.jpg # Add image post (optional)
 description: 我在112資工系從大一到大二的修課心得，提供給學弟妹參考（未完待補）
 tags: [大學, 選課]
 ---
-# 我的選課地圖：
-
+# 我的選課地圖
+![](assets/img/class-experience/class_map.png)
 
 # 重要
 拜託各位在使用課程資源的時候請不要大肆張揚
