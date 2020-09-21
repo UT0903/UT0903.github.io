@@ -11,7 +11,7 @@ tags: [大學, 選課]
 # 重要
 拜託各位在使用課程資源的時候請不要大肆張揚
 
-# <div id=Discrete_Mathematics>離散數學</div>
+<h1 id="Discrete_Mathematics">離散數學</h1>
 * 開課系所：資工系選修
 * 修課學期：108-2
 * 教授：陳健輝
