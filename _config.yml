@@ -1,4 +1,4 @@
-title: UT's blog| UT的個人部落格
+title: UT's blog| 個人部落格
 description: 於112資工系大三生活中苟延殘喘，開學不務正業開始經營自己的Blog # this means to ignore newlines until "baseurl:"
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
