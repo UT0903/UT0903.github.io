@@ -17,7 +17,7 @@ social-github: UT0903 # add your Github handle
 discus-identifier: ut0903-github-io # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+analytics: UA-161795841-2 # Google Analytics
 
 # Build Settings
 markdown: kramdown
