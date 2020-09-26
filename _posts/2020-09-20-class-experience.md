@@ -33,6 +33,7 @@ tags: [大學, 選課]
 
 ## 課程資源
 [108年段考考題](https://github.com/UT0903/UT0903.github.io/blob/master/assets/file/class-experience/DM_exam_paper.pdf)  
+[點此回頁首](https://github.com/UT0903/UT0903.github.io/#Front)  
 
 <h1 id="Object_Oriented_Programming_Language">物件導向程式語言</h1>
 * 開課系所：工海系
@@ -106,7 +107,7 @@ tags: [大學, 選課]
 
 ## 課程資源
 [我的程式作業code](https://github.com/UT0903/UT0903.github.io/blob/master/assets/file/class-experience/SC_HW_code)  
-[點此回頁首](https://github.com/UT0903/UT0903.github.io/#Front)
+
 <h1 id="Computer_Science_and_Information_Technology">前瞻資訊科技一、二</h1>
 * 開課系所：資工系選修
 * 修課學期：108-1、2
