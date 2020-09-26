@@ -33,7 +33,7 @@ tags: [大學, 選課]
 
 ## 課程資源
 [108年段考考題](https://github.com/UT0903/UT0903.github.io/blob/master/assets/file/class-experience/DM_exam_paper.pdf)  
-[點此回頁首](https://ut0903.github.io/class-experience/#Front)  
+<a style="text-align:center; font-weight:bold;" herf="#Front" >點此回頁首</a>
 
 <h1 id="Object_Oriented_Programming_Language">物件導向程式語言</h1>
 * 開課系所：工海系
