@@ -66,8 +66,8 @@ tags: [大學, 選課]
 
 ## 課程資源
 [中華科大影片](https://www.youtube.com/c/CUSTCourses/playlists?view=50&sort=dd&shelf_id=5)
-[中華科大影片筆記](https://hackmd.io/@9uvrhpAFTKq0YY9PWUt5-g/r1jB9BmP8)
-[108年Quiz1考古題](https://github.com/UT0903/UT0903.github.io/blob/master/assets/file/class-experience/Pb_quiz1.pdf)
+[中華科大影片筆記](https://hackmd.io/@9uvrhpAFTKq0YY9PWUt5-g/r1jB9BmP8)  
+[108年Quiz1考古題](https://github.com/UT0903/UT0903.github.io/blob/master/assets/file/class-experience/Pb_quiz1.pdf)  
 <h1 id="Operating_Systems">作業系統</h1>
 * 開課系所：資工系大二必修
 * 修課學期：108-2
@@ -103,7 +103,7 @@ tags: [大學, 選課]
 每堂課後都有小考，考的都是當天上課內容，但我們這年因為肺炎疫情所以線上上課跟小考，所以……你懂的。期末project是到AIdea（一個像kaggle的競賽平台）上傳小組的code，會用到DP或是ML，本科生修過類似的課所以還hold的住，但外系（我同學）修的滿辛苦的，因為老師說上課會教期末project會用到的理論，但……成效不彰，非本科生要在短時間吸收這麼多東西恐怕還是有很大的困難。教授是Matlab的狂熱者，但我們今年有開放使用python來寫作業，對於不用多學一套語言感到著實欣慰。期末project三人一組，loading偏重，可能需要至少兩個禮拜才有辦法完成。
 
 ## 課程資源
-[我的程式作業code](https://github.com/UT0903/UT0903.github.io/blob/master/assets/file/class-experience/SC_HW_code)
+[我的程式作業code](https://github.com/UT0903/UT0903.github.io/blob/master/assets/file/class-experience/SC_HW_code)  
 
 <h1 id="Computer_Science_and_Information_Technology">前瞻資訊科技一、二</h1>
 * 開課系所：資工系選修
@@ -119,7 +119,7 @@ tags: [大學, 選課]
 基本上就是一門爽課，一堂課都不用去（除非老師有要隨堂考啦），作業大部分都很簡單，偶爾很難的話需要靠同學，所以請揪團找大腿一起去上課，沒有比這堂課還涼甜的資工系選修了。期初都說會有期末考，但期末最後沒教授想出題最後都不考。
 
 ## 課程資源
-涼到不用任何資源
+涼到不用任何資源  
 
 <h1 id="Programming_for_Business_Computing_in_Python">用 Python 做商管程式設計（線上課程）</h1>
 * 開課系所：台大數位學習中心 可計入通識學分
@@ -165,7 +165,7 @@ tags: [大學, 選課]
 這班的線性代數比較偏活用與計算，另一班（呂學一教授）則是偏證明，滿滿的證明，作業一個禮拜一份，不多也不太難，slader上有，考試今年偏難，助教都從碩士班入學考題裡面出題（自己上網找考古來寫），需要花時間讀（我就是第一次段考考爆了，後面盡力補救但還是只有B+ @@），如果上課不這麼催眠而且可以多用一些中文來解釋的話我可能會考的好一點...
 
 ## 課程資源
-[碩士考考題共筆](https://hackmd.io/yudEAQGzQ22wG7O-IEYXwA)
+[碩士考考題共筆](https://hackmd.io/yudEAQGzQ22wG7O-IEYXwA)  
 
 <h1 id="Algorithm_Design_and_Analysis">演算法設計與分析(ADA)</h1>
 * 開課系所：資工系大二上雙班必修
@@ -195,11 +195,11 @@ tags: [大學, 選課]
 第一門有感受到系上教授專業的課，卜壬講課很清楚，但常常會來不及跟上他的腦袋，需要再聽第二遍。loading不輕，四個程式大作業還有幾個手寫小作業，大作業常常要花一個多禮拜才能完成。期中考超細，細到有些是他上課嘴巴講但ppt上沒有的東西，或是會考手寫程式題，期末考相較之下就比較簡單（可能是因為期中考考太難，大家分數不好看，所以期末考總分是150分），但要注意這堂課是不會調分的，考卷總分變高你也要拿的到。
 
 ## 課程資源
-[期中考共筆（須登入hackmd）](https://hackmd.io/rIgVJpooQn2eRbLCxvrAMw)
-[108年期中考考古題](https://github.com/UT0903/UT0903.github.io/blob/master/assets/file/class-experience/SP_middle_exam.pdf)
-[期末考共筆（須登入hackmd）](https://hackmd.io/bJZwWckCRk2H_dWvHWTLdg)
-[期末考考古題](https://hackmd.io/MYC_SqMPT4WqPwN1HLVTBA)
-[SP作業（手寫與程式）](https://github.com/UT0903/UT0903.github.io/blob/master/assets/file/class-experience/SP)
+[期中考共筆（須登入hackmd）](https://hackmd.io/rIgVJpooQn2eRbLCxvrAMw)  
+[108年期中考考古題](https://github.com/UT0903/UT0903.github.io/blob/master/assets/file/class-experience/SP_middle_exam.pdf)  
+[期末考共筆（須登入hackmd）](https://hackmd.io/bJZwWckCRk2H_dWvHWTLdg)  
+[期末考考古題](https://hackmd.io/MYC_SqMPT4WqPwN1HLVTBA)  
+[SP作業（手寫與程式）](https://github.com/UT0903/UT0903.github.io/blob/master/assets/file/class-experience/SP)  
 <h1 id="Introduction_to_Computer_Programming">計算機程式設計</h1>
 * 開課系所：資工系大一上必修
 * 修課學期：107-1 & 108-1
