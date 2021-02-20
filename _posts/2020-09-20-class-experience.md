@@ -9,7 +9,7 @@ tags: [大學, 選課]
 
 <div id="Front"></div>
 <script type="text/javascript">
-	window.addEventListener('locationchange', function(){
+	window.addEventListener('hashchange', function(){
     	console.log('location changed:', window.location.href);
 	})
 </script>
