@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 台大資工修課心得與資源
-date: 2020-02-20 22:22:00 +0800
+date: 2021-02-20 22:22:00 +0800
 img: class-experience/main.jpg # Add image post (optional)
 description: 我在112資工系從大一到大二的修課心得，提供給學弟妹參考（持續更新）
 tags: [大學, 選課]
