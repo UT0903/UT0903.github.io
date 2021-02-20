@@ -8,6 +8,11 @@ tags: [大學, 選課]
 ---
 
 <div id="Front"></div>
+<script type="text/javascript">
+	window.addEventListener('locationchange', function(){
+    	console.log('location changed:', window.location.href);
+	})
+</script>
 
 # 使用說明
 * 這是筆者在112資工系大一到大三上（目前）的修課心得與資源，提供給學弟妹或修課的人參考（持續更新）
