@@ -1,0 +1,29 @@
+.Todo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 85%;
+    margin: auto;
+}
+
+.Todo-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: visible;
+}
+
+.Todo-title h1 {
+    margin: 0;
+    margin-right: 20px;
+    font-size: 4em;
+    margin-top: 15px;
+    /* margin-bottom: 5px; */
+}
+
+.TodoTable {
+    width: 100%;
+    height: 100%;
+}
